@@ -23,8 +23,8 @@ public class Iteminfo : MonoBehaviour
 
     void OnMouseOver()
     {
-        Debug.Log(itemName);
-        playerScript.itemText.text = itemName;
+        //Debug.Log(itemName);
+        //playerScript.itemText.text = itemName;
     }
 
     void OnMouseDown()

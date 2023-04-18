@@ -1754,11 +1754,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 10
   speed: 2
-  upRotation: 5
-  downRotation: 5
+  upRotation: 20
+  downRotation: 20
   playerCam: {fileID: 800244235}
   lookSensitivity: 10
-  castDist: 0
+  castDist: 15
   mainCam: {fileID: 800244237}
   itemText: {fileID: 1306892056}
   lookingAt: nothing!
